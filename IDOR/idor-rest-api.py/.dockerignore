@@ -1,7 +1,0 @@
-dist
-node-modules
-.vscode
-.git
-__pycache__
-**/__pycache__
-**/*.pyc
